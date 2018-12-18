@@ -47,6 +47,16 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
+## Welcome!
+
+This is the landing site for Columbia's [Foundations for Reseach Computing](https://rcfoundations.research.columbia.edu/) January Bootcamp #4 (Programming in R). 
+
+__While R is a large part of the Bootcamp, it is not the exclusive focus.__ Our goal is to get you started in applying computational methods in your research processes. This means we'll walk though using [The Unix Shell](#syllabus-shell) and [Git](#syllabus-git) in addition to R in order to develop fundamental and widely applicable skillsets.
+
+Below you'll find the schedule, syllabus, and setup instructions to go over __before the bootcamp begins__, as well as more information about the [Software Carpentries](https://software-carpentry.org/) curriculum.
+
+<br>
+
 <h2 id="general">General Information</h2>
 
 {% comment %}
